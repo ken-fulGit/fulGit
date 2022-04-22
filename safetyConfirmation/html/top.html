@@ -10,7 +10,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-</head>
+        <link rel="stylesheet" href="../css/style.css">
+    </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,7 +24,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">安否確認メール送信</span></a>
+                    <a class="nav-link" href="#">メール送信画面 <span class="sr-only">安否確認メール送信</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">安否確認状況</a>
@@ -35,7 +36,12 @@
 
         </div>
     </nav>
-    <h1 class="font-weight-bold text-center m-3">安否確認メール送信</h1>
+    <h1 class="font-weight-bold text-center m-3">安否確認</h1>
+    <div class="alert alert-secondary text-center m-3 h2" role="alert">
+
+        メール送信画面
+    </div>
+    
     <article class="m-3">
 
         <table class="table table-striped table-hover m-2">
@@ -107,7 +113,7 @@
             <button type="button" class="btn btn-secondary ">安否確認メール送信</button>
         </div>
     </article>
-    <footer class="text-right m-2">銀河ソフトウェア</footer>
+    <footer class="text-right m-2 small">&copy;銀河ソフトウェア</footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
