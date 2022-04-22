@@ -24,26 +24,25 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">メール送信画面 <span class="sr-only">安否確認メール送信</span></a>
+                    <a class="nav-link" href="safetySendMail.html">メール送信画面 <span class="sr-only">安否確認メール送信</span></a>
 
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">安否確認状況</a>
+                    <a class="nav-link" href="safetyStatusConfirm.html">安否状況確認</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#">履歴</a>
                 </li>
             </ul>
-
         </div>
     </nav>
     <h1 class="font-weight-bold text-center m-3">安否確認</h1>
     <div class="alert alert-info text-center m-3 h2" role="alert">
-        メール送信確認画面
+        メール送信確認
     </div>
 
     <article class="m-3">
-        <form name="mail-send" id="mail-send" action="sendConfirm.html" method="post">
+        <form name="mail-send-confirm" id="mail-send-confirm" action="safetyStatusConfirm.html" method="post">
             <div class="alert alert-success text-center  w-50 mx-auto" role="alert">
                 <strong class="d-block">メール送信</strong>
                 下記4名に安否確認のメールを送信しました。
@@ -102,7 +101,7 @@
             </table>
         </form>
         <div class="col-md-12 text-center m-3">
-            <button type="submit" form="mail-send" class="btn btn-secondary ">安否状況確認画面</button>
+            <button type="submit" form="mail-send-confirm" class="btn btn-secondary ">安否状況確認</button>
         </div>
     </article>
     <footer class="text-right m-2 small">&copy;銀河ソフトウェア</footer>
