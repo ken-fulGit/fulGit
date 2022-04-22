@@ -60,8 +60,8 @@
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
                                     <a class="dropdown-item" href="#!">全て</a>
                                     <a class="dropdown-item" href="#!">2022/04/22 10:00</a>
-                                    <a class="dropdown-item" href="#!">2022/04/22 9:00</a>
-                                    <a class="dropdown-item" href="#!">2021/03/24 20:00ム</a>
+                                    <a class="dropdown-item" href="#!">2022/04/22 09:00</a>
+                                    <a class="dropdown-item" href="#!">2021/03/24 20:00</a>
                                     <a class="dropdown-item" href="#!">2018/04/01 10:00</a>
                                 </div>
                             </div>
@@ -100,13 +100,46 @@
                             </div>
                         </th>
                         <th class="align-middle">
-                            <div>
-                                状態
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu1"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    状態
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                    <a class="dropdown-item" href="#!">全て</a>
+                                    <a class="dropdown-item" href="#!">無事</a>
+                                    <a class="dropdown-item" href="#!">軽症</a>
+                                    <a class="dropdown-item" href="#!">重症</a>
+                                    <a class="dropdown-item" href="#!">その他</a>
+                                </div>
                             </div>
                         </th>
                         <th class="align-middle">
-                            <div>
-                                居場所
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu1"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    居場所
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                    <a class="dropdown-item" href="#!">自宅</a>
+                                    <a class="dropdown-item" href="#!">職場</a>
+                                    <a class="dropdown-item" href="#!">帰宅中</a>
+                                    <a class="dropdown-item" href="#!">避難中</a>
+                                    <a class="dropdown-item" href="#!">その他</a>
+                                </div>
+                            </div>
+                        </th>
+                        <th class="align-middle">
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu1"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    連絡
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                    <a class="dropdown-item" href="#!">全て</a>
+                                    <a class="dropdown-item" href="#!">必要</a>
+                                    <a class="dropdown-item" href="#!">不要</a>
+                                </div>
                             </div>
                         </th>
                     </tr>
@@ -118,7 +151,8 @@
                         <td>第一システム</td>
                         <td>2022/04/22 10:40</td>
                         <td class="alert-warning">軽症</td>
-                        <td>在宅</td>
+                        <td>自宅</td>
+                        <td>不要</td>
                     </tr>
                     <tr>
                         <td>2022/04/22 10:00</td>
@@ -127,12 +161,14 @@
                         <td>2022/04/22 10:40</td>
                         <td class="alert-danger">重症</td>
                         <td>帰宅中</td>
+                        <td class="alert-danger">必要</td>
                     </tr>
                     <tr>
                         <td>2022/04/22 10:00</td>
                         <td>銀河三郎</td>
                         <td>第三システム</td>
                         <td class="alert-warning"></td>
+                        <td class="alert-warning">未回答</td>
                         <td class="alert-warning">未回答</td>
                         <td class="alert-warning">未回答</td>
                     </tr>
@@ -143,12 +179,14 @@
                         <td>2021/09/30 23:40</td>
                         <td>無事</td>
                         <td>避難中</td>
+                        <td>不要</td>
                     </tr>
                     <tr>
                         <td>2021/09/29 09:00</td>
                         <td>銀河情子</td>
                         <td>データ事業部</td>
                         <td class="alert-warning"></td>
+                        <td class="alert-warning">未回答</td>
                         <td class="alert-warning">未回答</td>
                         <td class="alert-warning">未回答</td>
                     </tr>

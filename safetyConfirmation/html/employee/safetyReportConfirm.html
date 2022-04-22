@@ -16,45 +16,40 @@
 <body>
     <h1 class="font-weight-bold text-center m-3">安否確認</h1>
     <div class="alert alert-info text-center m-3 h2" role="alert">
-        安否報告
+        安否報告確認
     </div>
 
     <article class="m-3">
-        <form name="safety-report-confirm" id="safety-report-confirm" action="safetyReportConfirm.html" method="post">
+        <form name="safety-report-complete" id="safety-report-complete" action="safetyReportComplete.html" method="post">
             <div class="alert alert-success text-center  w-50 mx-auto" role="alert">
-                <strong class="d-block">メッセージ領域</strong>
-                メッセージ領域
+                <strong class="d-block">報告内容確認</strong>
+                この内容で送信しますがよろしいでしょうか。
             </div>
-            <p class="text-center m-3">
-                安否確認システムにアクセス頂き有難うございます。<br>
-                災害発生の為、社員の安否確認を行っております。<br>
-                ご協力をお願いします。<br>
-                下記項目に関して、現在の状況をご報告下さい。
-            </p>
+
             <div class="m-3 w-50 mx-auto">
                 <div class="alert alert-primary" role="alert">
                     <strong>現在のご自身の体調に関して</strong>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="condition" id="condition01" value="" checked>
+                    <input class="form-check-input" type="radio" name="condition" id="condition01" value="" checked disabled>
                     <label class="form-check-label" for="condition01">
                         怪我なく無事である
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="condition" id="condition02" value="">
+                    <input class="form-check-input" type="radio" name="condition" id="condition02" value="" disabled>
                     <label class="form-check-label" for="condition02">
                         怪我をしたが軽症である
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="condition" id="condition03" value="">
+                    <input class="form-check-input" type="radio" name="condition" id="condition03" value="" disabled>
                     <label class="form-check-label" for="condition03">
                         重症である（行動が困難）
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="condition" id="condition04" value="">
+                    <input class="form-check-input" type="radio" name="condition" id="condition04" value="" disabled>
                     <label class="form-check-label" for="condition04">
                         その他
                     </label>
@@ -66,31 +61,31 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="current-location" id="location01" value=""
-                        checked>
+                        checked disabled>
                     <label class="form-check-label" for="location01">
                         自宅にいる
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="current-location" id="location02" value="">
+                    <input class="form-check-input" type="radio" name="current-location" id="location02" value="" disabled>
                     <label class="form-check-label" for="location02">
                         職場にいる
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="current-location" id="location03" value="">
+                    <input class="form-check-input" type="radio" name="current-location" id="location03" value="" disabled>
                     <label class="form-check-label" for="location03">
                         避難中
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="current-location" id="location04" value="">
+                    <input class="form-check-input" type="radio" name="current-location" id="location04" value="" disabled>
                     <label class="form-check-label" for="location04">
                         帰宅中
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="current-location" id="location05" value="">
+                    <input class="form-check-input" type="radio" name="current-location" id="location05" value="" disabled>
                     <label class="form-check-label" for="location05">
                         その他
                     </label>
@@ -101,21 +96,25 @@
                     <strong>会社（または所属長）の連絡の必要性</strong>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="confirmation-contact" id="contact01" value="">
-                    <label class="form-check-label" for="contact01">
+                    <input class="form-check-input" type="radio" name="confirmation-contact" id="contact01" value="" disabled>
+                    <label class="form-check-label" for="contact01" disabled>
                         必要
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="confirmation-contact" id="contact02" value="">
+                    <input class="form-check-input" type="radio" name="confirmation-contact" id="contact02" value="" disabled>
                     <label class="form-check-label" for="contact02">
                         不要
                     </label>
                 </div>
             </div>
         </form>
+        <form name="safety-report" id="safety-report" action="safetyReport.html" method="post">
+
+        </form>
         <div class="col-md-12 text-center m-3">
-            <button type="submit" form="safety-report-confirm" class="btn btn-secondary ">安否報告</button>
+            <button type="submit" form="safety-report" class="btn btn-secondary ">内容を訂正する</button>
+            <button type="submit" form="safety-report-complete" class="btn btn-secondary ">安否報告</button>
         </div>
     </article>
     <footer class="text-right m-2 small">&copy;銀河ソフトウェア</footer>
