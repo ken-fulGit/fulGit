@@ -33,7 +33,12 @@
 ## 4-2.安否確認メール送信
 - 安否確認を行う対象者を選択し、安否確認のメールを送信する。  
 - 社員名前、部署での絞り込み検索、ソート機能。  
-- 安否確認メールは、期間限定メール(Capability URLs)として送付され、安否報告画面へはログイン不要とする。  
+- 安否確認メールは、限定公開メール(Capability URLs)として送付され、安否報告画面へはログイン不要とする。  
+- URLはセキュリティを考慮する（base64で22文字以上での設計、期限を設ける、URLの無効化、クロール対策等）  
+[w3c Capability-URLs](https://www.w3.org/TR/capability-urls/)   
+[個人サイト](https://triple-underscore.github.io/capability-urls-ja.html)
+
+
 
 ## 4-3.安否報告確認
 - 報告された安否状況を確認。  
