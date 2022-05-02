@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T01:34:24.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bB2IoVRXmLsHA98UlPoq" version="17.4.6" type="device"><diagram id="2pA_o_BBKRLdR6AsR-EI" name="Page-1">7Vpbc+I2FP41etyMbVmy/GiD2XYmO7Oz2e12+9IxoIAbg6gRAfrrK8kyvilAHAzpTvMS6Vg6Rt/5dG4A4GCx+5jFq/knNqUpcKzpDsAhcBzbsXzxT0r2uQRhJxfMsmSqF5WCh+QfqoWWlm6SKV3XFnLGUp6s6sIJWy7phNdkcZaxbX3ZI0vrb13FM9oSPEzitC39nkz5PJcSxyvlv9BkNi/ebGN94EVcLNYnWc/jKdtWRDACcJAxxvPRYjegqQSvwCXfN3rh6eGDZXTJz9mwDX77usPR35vB42ZC13wY/fr0QWt5jtONPjCIPBBEILDlwLcAwSAigNgg1Ede830BjjjSSg43izSYcJYBGD7TjCcCvvt4TNPPbJ3whC3FkjHjnC0qC4I0mckHnK2EdM4XqZjYYtg+V/EhxU66q4j0OT9StqA824slxdOCPfuChjifb0sTQr1kXrEe1rJYk2Z20FziKgYa2lfA7BhgdkEocLUUugQEAwW8EEYgQsCH0gL/Fbw92MAburfF229BR6fiWuspy/iczdgyTqNSGmZss5xSqdUSs3LNPZOIKaj+opzvtY+KN5zVgRT4Zfvf5f47VEx/VJ8Nd1p5PtsfZtNAeioxXbIlzSWjRJ5YPX/RQGu2ySb0CAxQO8w4m1F+ZJ2+HRKjo+bOaBrz5LnuGi9uPGi4LEj6JOKrq2GBACuJBUJbSWxAgrbF01QECQnndp5w+rCKFVZbEacufgGg69YuAIR26wLYruEGeH3dAHQWiMLjOCAMpA8KAkCGIIKAKNeTD8JBIQlB5EtvJQKB9Fwjk3u6LuKw4XJujTjuRtu2Dd4TkR3o3RhW2+vOZEcmLXrgaybLfCantNVCuhJf75NHmibKG69oloizUBFuh6kWfy5lp6wiMlMeiy3ZYZ6m8WqdjNVbpYPP6GSTrYVf/ULXeXBREWjD5ZsGh8T2aCx4hYlx/ea4ELVNbBlMDK3e0iO3beOmbSqIrliy5OozoBCgYcNEZeSuGqkN3HG2nQ2ni2poIhOYbSwdC/WFpSmlN90X4XtCMcAghMqrn/RDFQs0k8pDtlnJZcYpmzy18qpKkmSTapZk3fkYn8yUxKxi1eNX4mQ6U7ER0TY6O8PR2j5LKlYKD1S/W7iZ4eYpm95VLdYailzLv/P8yl+dZRiJx7CuOs/yWqoViQ6HfgOv2jXMty/3KhkIgU+UUxUBbfjw6eFtWcRFaPaeSOEWTqUwXtOPnksK3PDcLUV9U8CUmbfsKZ3NSJWxRCY6UqLqXII0R4QrkrtsWf8K9yP8kC8kI0kTkkuUTqFHbJePWnWxXtyu8vrlzsk6qjD0O/A8CHUkGbQaitwrk+wWlcs5vFmLg/NGoa5klVLdwC21RPcMyI25hnviGnG7cU1UbccV9c21ds32nY7PKh1yVxYSvUaQUQ9Gxa6wvl24Mq9TH+OVPk0zs06zGndrzNTktS/YdbqhF0SNrgCGlwq1TUV9M5MYvKCxMa8C65mFbCzpk6xiZdFKE/lGFa65Nb0W70mWs6+q6wpxj5WwDRuVcBHqKsR0rlsI+wazv+2Lgv/t/6L9sffe7A9NxXsecg4dLauING6R6sCW/W/ZMjSAeN2OITR0k7qA+NMVojaqWwo5XbsTNrxDx1VdLj5+c7w/ftj0Tx6OZ6PnxdOTNXr+YAiPrTtQmoat6LKW4Oh0R6fltlO/FC91rOrtqsN3fC80q4xm7pbrw9MUsS+V2xd6iu9VOteRjSKhvzLSSBBDIP2JCYJvxw/SmR91Z0TQVflRNOWvQZALGhrdztDNeH12sGh+pej21rg2W9qQU/XuCuzbxYqrMcRzLuQKPJFOWND1MSGIWG6jhnd8/873sY0xsiwHE+vK9HGuSJ9dwg/sEeMKecSs5I6cvJ46Jxs36EyKOdejWPOHZV0p5vqNH+h4+EIsEtPyN5z58vKXsDD6Fw==</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="2pA_o_BBKRLdR6AsR-EI" name="Page-1">
+        <mxGraphModel dx="766" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="wAVTx6EquCfucestDEIk-1" value="管理職" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="126" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-2" value="一般社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="134" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="wAVTx6EquCfucestDEIk-3" target="wAVTx6EquCfucestDEIk-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-3" value="安否報告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="344" y="331" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-5" value="安否確認メール送信" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="343" y="131" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-6" value="安否報告確認" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="344" y="237" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-17" value="安否確認システム" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="363" y="435" width="100" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="wAVTx6EquCfucestDEIk-17" vertex="1">
+                    <mxGeometry x="45" y="55" width="10" height="205" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-21" value="安否状況確認" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.18;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="153" y="660" as="sourcePoint"/>
+                        <mxPoint x="409.79999999999995" y="659.73" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-22" value="URL付きSMSメール送信" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="417" y="600" as="sourcePoint"/>
+                        <mxPoint x="663" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-23" value="送信対象者の選択（所属社員）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="wAVTx6EquCfucestDEIk-17" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="153" y="550" as="sourcePoint"/>
+                        <mxPoint x="303" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-25" value="安否確認メール送信" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;rounded=0;" parent="1" target="wAVTx6EquCfucestDEIk-17" edge="1">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="153" y="584" as="sourcePoint"/>
+                        <mxPoint x="213" y="584" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-26" value="Webシステムへアクセスし安否報告" style="html=1;verticalAlign=bottom;endArrow=none;rounded=0;startArrow=block;startFill=1;endFill=0;" parent="1" source="wAVTx6EquCfucestDEIk-17" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="543" y="630" as="sourcePoint"/>
+                        <mxPoint x="663" y="630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-28" value="管理者" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="133" y="440" width="20" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-29" value="一般社員" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="673" y="440" width="20" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-31" value="ログイン&lt;br&gt;（ohanaログイン機能）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="344" y="40" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="wAVTx6EquCfucestDEIk-34" value="ログイン" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="154" y="520" as="sourcePoint"/>
+                        <mxPoint x="413.5" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U27ZY1e_tBbgFvmkk0Fv-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wAVTx6EquCfucestDEIk-31" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="160" y="150" as="sourcePoint"/>
+                        <mxPoint x="353" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U27ZY1e_tBbgFvmkk0Fv-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wAVTx6EquCfucestDEIk-6" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="160" y="180" as="sourcePoint"/>
+                        <mxPoint x="354" y="85" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U27ZY1e_tBbgFvmkk0Fv-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" target="wAVTx6EquCfucestDEIk-5" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="160" y="170" as="sourcePoint"/>
+                        <mxPoint x="444" y="243" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U27ZY1e_tBbgFvmkk0Fv-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wAVTx6EquCfucestDEIk-3" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="720" y="180" as="sourcePoint"/>
+                        <mxPoint x="713.0349688580443" y="299.99616650026803" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U27ZY1e_tBbgFvmkk0Fv-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wAVTx6EquCfucestDEIk-5" target="wAVTx6EquCfucestDEIk-2" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="730" y="180" as="sourcePoint"/>
+                        <mxPoint x="494" y="376" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
