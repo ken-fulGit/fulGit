@@ -69,7 +69,7 @@
                 <mxCell id="24" value="イベント詳細" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
                     <mxGeometry x="310" y="394" width="160" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="+イベントID（FK/PK）&#10;+解答日時&#10;+設問ID（FK/PK）&#10;+解答ID（FK）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="24" vertex="1">
+                <mxCell id="25" value="+イベントID（FK/PK）&#10;+回答社員ID（FK/PK）&#10;+設問ID（FK/PK）&#10;+解答日時&#10;+解答ID（FK）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="24" vertex="1">
                     <mxGeometry y="30" width="160" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="25" target="12" edge="1">
